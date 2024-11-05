@@ -89,6 +89,12 @@ p{
     background-color: rgb(43, 43, 43);
     border:2px solid rgb(90, 88, 88);
 }
+
+.nav-link:active {
+    background-color: rgb(43, 43, 43);
+    border:2px solid rgb(90, 88, 88);
+}
+
 footer{
     color:rgb(73, 69, 69);
     margin:auto;
