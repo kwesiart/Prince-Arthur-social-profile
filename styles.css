@@ -85,9 +85,12 @@ p{
     border:none; 
 }
 
-.nav-link:hover, .nav-link:active {
+.nav-link:active {
     background-color: rgb(43, 43, 43);
     border:2px solid rgb(90, 88, 88);
+}
+.nav-link:hover{
+    translate:8px;
 }
 
 footer{
@@ -103,3 +106,4 @@ footer{
     color:rgb(64, 64, 107);
     text-decoration:none;
 }
+
